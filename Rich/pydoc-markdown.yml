@@ -1,8 +1,12 @@
 loaders:
   - type: python
     search_path: ["."]
-    packages:
-      - personalizador
+    modules:
+      - personalizador.layout
+      - personalizador.painel
+      - personalizador.progresso
+      - personalizador.estilo
 
 renderer:
   type: markdown
+  filename: docs/documentation.md

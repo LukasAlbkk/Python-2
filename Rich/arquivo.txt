@@ -1,0 +1,2 @@
+Olá, este é um exemplo de conteúdo em um arquivo de texto.
+Use este arquivo para testar as funcionalidades de leitura de arquivo no seu programa.
